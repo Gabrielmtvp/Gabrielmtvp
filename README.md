@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  README 🚀 Em construção...  🚧
+	🚧  README 🚀 Under construction...  🚧
 </h4>
 
 - 👋 Hi, I’m @Gabrielmtvp
