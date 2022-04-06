@@ -4,8 +4,9 @@
 
 - 👋 Hi, I’m @Gabrielmtvp
 - 👀 interested in technologys that helps me solve problems
+- ☕️ Java Web Developer
 - 🌱 I’m currently learning React and Node
-- 📫 How to reach me: Cell: +55(47)98495-0903
+- 📫 How to reach me: Cell: +353 83 092 1358
 
 <!---
 - 💞️ I’m looking to collaborate on ...
