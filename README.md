@@ -5,10 +5,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
 
-- 👋 Hi, I’m @Gabrielmtvp
+### About me
+
+- I'm a {backend, frontend and mobile} developer.
 - 👀 interested in technologys that helps me solve problems
 - ☕️ Java Web Developer
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning more about React and Node
 - 📫 How to reach me: Cell: +353 83 092 1358
 
 <!---
