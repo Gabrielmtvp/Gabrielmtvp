@@ -1,6 +1,9 @@
 <h4 align="center"> 
-	🚧  README 🚀 Under construction...  🚧
+	Hi, I'm @Gabrielmtvp
 </h4>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
 
 - 👋 Hi, I’m @Gabrielmtvp
 - 👀 interested in technologys that helps me solve problems
