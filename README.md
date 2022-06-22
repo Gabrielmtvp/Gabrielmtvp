@@ -1,6 +1,11 @@
 
 # Hi, I'm @Gabrielmtvp
 
+<div>
+<a href="https://github.com/Gabrielmtvp">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmtvp&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmtvp-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
@@ -12,6 +17,17 @@
 - ☕️ Java Web Developer
 - 🌱 I’m currently learning more about React and Node
 - 📫 How to reach me: Cell: +353 83 092 1358
+  
+### Tools and Technologies
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 
 <!---
 - 💞️ I’m looking to collaborate on ...
