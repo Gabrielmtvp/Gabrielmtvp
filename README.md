@@ -1,6 +1,5 @@
 
-## 👋 Hello! Welcome to my Github profile.
-### My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+## 👋 Hello! Welcome to my Github profile. My name is Gabriel!
 
 <div>
 <a href="https://github.com/Gabrielmtvp">
