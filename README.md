@@ -10,12 +10,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
 
-### About me
+### About me 
 
-- I'm a {backend, frontend and mobile} developer.
-- 👀 interested in technologys that helps me solve problems
+-  I'm a {frontend, backend and mobile} developer.
+- 🌱 I’m currently working with React, NextJS, GraphQL, MongoDB at @ClusterStack
 - ☕️ Java Web Developer
-- 🌱 I’m currently learning more about React and Node
+- 👀 interested in technologys that helps me solve problems
 - 📫 How to reach me: Cell: +353 83 092 1358
   
 ### Tools and Technologies
