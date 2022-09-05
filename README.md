@@ -7,9 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmtvp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
-
 ### About me 
 
 -  I'm a {frontend, backend and mobile} developer.
@@ -24,6 +21,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielmtvp)](https://github.com/Gabrielmtvp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpgomes/)](https://www.linkedin.com/in/gabrielpgomes/)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
