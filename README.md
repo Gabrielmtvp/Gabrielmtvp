@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 I'm a {frontend, backend and mobile} developer.<br>🌱 I’m currently working with React, NextJS, GraphQL, MongoDB at @ClusterStack<br>☕️ Java Web Developer<br>👀 interested in technologies that helps solve problems around the world!<br>📫 How to reach me: Cell: +353 83 113 7797
 
 
